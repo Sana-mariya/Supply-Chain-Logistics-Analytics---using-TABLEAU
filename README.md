@@ -90,6 +90,8 @@ To identify the relationship between manufacturing time and manufacturing cost a
 
 Done with the project and added live dashboard using tableau.
 
+LIVE TABLEAU DASHBOARD Click here to view the dashboard (https://public.tableau.com/app/profile/sana.sanu/viz/projectTableau_17933652399550/Dashboard1?publish=yes)
+
 ---
 
 Created by: Sana Mariya
